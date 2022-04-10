@@ -1,0 +1,9 @@
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\bin\Debug\CommunicatorServer.exe.config
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\bin\Debug\CommunicatorServer.exe
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\bin\Debug\CommunicatorServer.pdb
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\obj\Debug\CommunicatorServer.csprojAssemblyReference.cache
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\obj\Debug\CommunicatorServer.fCommunicatorServer.resources
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\obj\Debug\CommunicatorServer.Properties.Resources.resources
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\obj\Debug\CommunicatorServer.csproj.GenerateResource.cache
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\obj\Debug\CommunicatorServer.exe
+C:\Users\Tymek\source\repos\CommunicatorServer\CommunicatorServer\obj\Debug\CommunicatorServer.pdb
